@@ -175,8 +175,5 @@ Performance wise, LLM APIs may still perform better than an open-source model ru
 
 # TK - Extensions 
 
-Coming soon.
-
-
 
 
